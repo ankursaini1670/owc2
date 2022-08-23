@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Home */
+.navbar-nav .nav-link{
+    justify-content: end;
+}
+.nav-link:hover{
+    color:#ffc107;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.mainContent h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.mainContent p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.mainContent button{
+    background-color: orange;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+
+}
+.mainContent button:hover{
+    background-color: orange;
+    color: black;
+    
+}
+/* About us  */
+.about h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+.about button{
+    border:2px solid black;
+}
+.about button:hover{
+    background-color: orange;
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+}
+.about p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+/* Services */
+section.services h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+    
+}
+section.services .card-group h3{
+    font-weight: bold;
+    font-size: 40px;
+}
+section.services .card-group p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.services .card:hover{
+    background-color: #ffc107;
+    color: white;
+    
+
+}
+section.services .card-body button{
+    background-color: #ffc107;
+    border: 2px solid black;
+
+}
+section.services button:hover{
+    background-color: black;
+    color: white;
+}
+/* Product */
+section.product{
+    background: url(../images/products.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 100,0;
+}
+section.product h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+section.product p{
+    color: white;
+}
+/* Project  */
+section.project h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+/* Client  */
+section.client h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+/* footer  */
+footer .row .column h3{
+    font-weight: bolder;
+    
+}
+footer .row .column ul li{
+    font-weight: 500;
+}
+/* About page  */
+section.aboutpage h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+section.aboutpage .col-md-12 p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.aboutpage .card p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.aboutpage .card h4{
+    font-weight: bold;
+}
+/* Service page  */
+section.servicepage h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+section.servicepage .card h3{
+    font-weight: bold;
+}
+section.servicepage .insatallation h3{
+    font-weight: bold;
+}
+section.servicepage .insatallation img{
+    border: 6px solid black;
+    padding: 20px;
+}
+/* Product page  */
+section.productpage h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+section.productpage p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.productpage h3{
+    font-weight: bold;
+}
+section.productpage h2{
+    font-weight: bold;
+}
+section.productpage .card h3{
+    font-weight: bold;
+}
+section.productpage .card p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.productpage h4{
+    font-weight: bold;
+}
+section.productpage h4 p{
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+section.contact h1{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #ffc107;
+}
+section.contact p{
+    font-weight: bold;
+    font-size: 30px;
+    color: #ffc107;
+}
+section.contact form{
+    background-color: burlywood;
+}
+section.contact{
+    background: url(../images/products.jpg);
+    background-size: cover;
+    background-position: center;
+}
+section.contact .contactdetail h4{
+    color: #ffc107;
+}
+section.contact .contactdetail span{
+    color: white;
+}
